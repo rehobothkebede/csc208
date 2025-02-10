@@ -6,4 +6,5 @@ $$
 
 # Cheat Sheet
 | Notation |  Example | Inline | Code Block |
-| Addition | ``` $a+b$``` | $a+b$ |
+| :------- | | :----: | :----: | ---------: |
+| Addition | $a+$b | ``` $a+$b ``` |  
