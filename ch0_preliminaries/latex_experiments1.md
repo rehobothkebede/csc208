@@ -5,5 +5,5 @@ $$
 $$
 
 # Cheat Sheet
-| Notation | | Example | | Inline | | Code Block |
-| Addition | | ``` $a+a$``` | | $a+b$ |
+| Notation |  Example | Inline | Code Block |
+| Addition | ``` $a+b$``` | $a+b$ |
