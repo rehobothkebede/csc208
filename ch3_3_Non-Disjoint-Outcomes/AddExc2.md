@@ -1,4 +1,4 @@
-# How Many Three-Digit Numbers Have an Even Digit Sum?
+#re How Many Three-Digit Numbers Have an Even Digit Sum?
 
 **Problem Statement:**  
 For how many three-digit numbers (100 to 999) is the sum of the digits even? (For example, 343 has an even sum of digits: 3 + 4 + 3 = 10 which is even.) Find the answer and explain why it is correct in at least two different ways.
@@ -26,7 +26,7 @@ If these are equally likely, we expect half to have an even sum.
 
 - Incrementing a number by 1 generally flips the parity of the digit sum.
   - Example: $342$ (sum = 9, odd) → $343$ (sum = 10, even)
-- The only exception is when a carry affects multiple digits (e.g., $109 \rightarrow 110$), but these disruptions are rare and **evenly spread** across the 900 numbers.
+- The only exception is when a carry affects multiple digits (e.g., $109 \rightarrow 110$), but these disruptions occure every 10 terms of the Set and **evenly spread** across the 900 numbers.
 - This creates an **alternating pattern**, and overall parity (odd/even sums) distributes evenly.
 
 So the total number of numbers with even digit sums is:
